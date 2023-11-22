@@ -358,7 +358,6 @@ body {
     color: #000000;
   }
   nav::before {
-    content: "Contents";
     font-family: "Arvo", serif;
     font-size: 55px;
     color: #FA7268;

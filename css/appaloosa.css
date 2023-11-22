@@ -168,11 +168,11 @@
  /*Cover*/ 
   
   @page: first {
-    size: 210mm 297mm;
+    /*size: 210mm 297mm;*/ 
     background-image: linear-gradient(#F5F4EF,#F5F4EF 73%,#56ACF6, #9dcef8 27%);
     background-size: 210mm 297mm;
     display: flex;
-    margin-top: 30mm;
+    /*margin-top: 30mm;*/ 
     color: #FA7268;
     page-break-after: always;
     @bottom-left { content: normal; }

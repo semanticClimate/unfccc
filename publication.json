@@ -9,12 +9,7 @@
     "author": "UNFCCC",
     "inLanguage": "en",
     "readingOrder": [
-      "cover.html", 
-      {
-        "type": "LinkedResource",
-        "url": "index.html",
-        "rel": "contents"
-      },
+      "cover.html",
       "imprint.html", 
       "https://raw.githubusercontent.com/petermr/pyamihtml/main/temp/unfccc/html/12_18_CP_24/12_18_CP_24.html", 
       "https://raw.githubusercontent.com/petermr/pyamihtml/main/temp/unfccc/html/12_23_CP_26/12_23_CP_26.html", 
@@ -23,6 +18,11 @@
       "https://raw.githubusercontent.com/petermr/pyamihtml/main/temp/unfccc/html/13_23_CP_27/13_23_CP_27.html" 
     ],
     "resources": [
+      {
+        "type": "LinkedResource",
+        "url": "index.html",
+        "rel": "contents"
+      },
         {
             "type": [
                 "LinkedResource"

@@ -22,6 +22,6 @@ Image: ["Appaloosa"](https://en.wikipedia.org/wiki/Appaloosa) horse breed *Equus
 
 Demo publication style for manuals
 
-![Haflinger horse](https://en.wikipedia.org/wiki/Haflinger#/media/File:Haflinger_Westfalensonne_und_Almfee.JPG) 
+![Haflinger horse](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Haflinger_Westfalensonne_und_Almfee.JPG/513px-Haflinger_Westfalensonne_und_Almfee.JPG) 
 
-Image: ["Haflinger"](https://en.wikipedia.org/wiki/Haflinger) horse breed *Equus ferus caballus*. Caption 'Haflinger mare Westfalensonne with her foal Almfee living at "Haflinger Westfalenfleiß Kinderhaus" Darrell Dodds (license held by Matthias Walther), 3 July 2009 [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) on [Wikipedia](https://commons.wikimedia.org/wiki/File:Haflinger_Westfalensonne_und_Almfee.JPG).
+Image: ["Haflinger"](https://en.wikipedia.org/wiki/Haflinger) horse breed *Equus ferus caballus*. Caption 'Haflinger mare Westfalensonne with her foal Almfee living at "Haflinger Westfalenfleiß Kinderhaus" (license held by Matthias Walther), 3 July 2009 [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) on [Wikipedia](https://commons.wikimedia.org/wiki/File:Haflinger_Westfalensonne_und_Almfee.JPG).

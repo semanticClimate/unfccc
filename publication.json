@@ -20,7 +20,7 @@
     "resources": [
       {
         "type": "LinkedResource",
-        "url": "index.html",
+        "url": "toc_file.html",
         "rel": "contents"
       },
         {

@@ -28,7 +28,7 @@ Image: ["Haflinger"](https://en.wikipedia.org/wiki/Haflinger) horse breed *Equus
 
 ## Source docs
 
-  - UNFCCC 
-  - PDF 
+  - UNFCCC - https://unfccc.int/documents
+  - PDF - https://github.com/petermr/pyamihtml/tree/main/test/resources/unfccc/unfcccdocuments
   - HTML pyamihtml - https://github.com/petermr/pyamihtml/tree/main/temp/unfccc/html
     
